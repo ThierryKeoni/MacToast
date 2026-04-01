@@ -1,5 +1,7 @@
-# MacToast <img width="40" height="40" alt="MacToast" src="https://github.com/user-attachments/assets/294ff569-8d78-4ae0-a5bd-1a044396ac1b" />
-Basically a mix between Aeroshot/CPP Shot and toxidpp made with several AI's!
+<img width="65" height="65" alt="MacToast" src="https://github.com/user-attachments/assets/294ff569-8d78-4ae0-a5bd-1a044396ac1b" /> <img width="256" height="62" alt="MacToast-1-4-2026" src="https://github.com/user-attachments/assets/10731458-bd93-4431-b69f-81d31a230ac8" />
+
+Basically a mix between Aeroshot/Toxidpp
+CPP Shot and toxidpp made with several AI's!
 
 
 **MacToast V4.0 - PRE-RELEASE**
