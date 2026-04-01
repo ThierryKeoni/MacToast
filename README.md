@@ -1,6 +1,6 @@
 <img width="65" height="65" alt="MacToast" src="https://github.com/user-attachments/assets/294ff569-8d78-4ae0-a5bd-1a044396ac1b" /> <img width="256" height="62" alt="MacToast-1-4-2026" src="https://github.com/user-attachments/assets/10731458-bd93-4431-b69f-81d31a230ac8" />
 
-```Current Version: MacToast V4.0 - PRE-RELEASE```
+```Current Version: MacToast V1.0.0 - STABLE-RELEASE```
 
 Operating System compatibility:
 
