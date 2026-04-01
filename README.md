@@ -17,7 +17,7 @@ If it doesn’t allow you to open the app, please go to Settings > Privacy & Sec
 
 **Screenshot tab - You can make active and inactive screenshots like CPPShot/AeroshotCre**
 
-<img width="148" height="194" alt="MacToast_active_1774993484" src="https://github.com/user-attachments/assets/abc3799a-01ed-40a5-96d4-e816ce88b696" />    
+<img width="148" height="194" alt="MacToast_active_1774993476" src="https://github.com/user-attachments/assets/52ad9431-08e0-4aa7-9bc3-daf65f4ebc4b" />
 
 **Notifications tab - You can create your own norifications like notif;**
 
@@ -25,7 +25,7 @@ If it doesn’t allow you to open the app, please go to Settings > Privacy & Sec
 
 **Terminal (error runner) tab - Make errors/warnings with a terminal sh command so it looks just like a macOS Crazy Error!!** _**Presets are attached in the release files.**_
 
-<img width="148" height="194" alt="MacToast_active_1774993476" src="https://github.com/user-attachments/assets/52ad9431-08e0-4aa7-9bc3-daf65f4ebc4b" />
+<img width="148" height="194" alt="MacToast_active_1774993484" src="https://github.com/user-attachments/assets/abc3799a-01ed-40a5-96d4-e816ce88b696" />    
 
 ### Why does this exist?
 
