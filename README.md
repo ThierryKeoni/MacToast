@@ -56,4 +56,4 @@ https://www.youtube.com/watch?v=cRtSZeTXWp8
 
 
 These are just examples. If you want to do that yourself, you'll need to learn it from another guy haha. For now,
-### Have fun with MacToast V4 Pre-Release!
+### Have fun with MacToast!
