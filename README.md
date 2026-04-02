@@ -6,7 +6,7 @@ Operating System compatibility:
 
 macOS BigSur  ？- Not tested yet.
 
-macOS Monterey   ？- Not tested yet.
+macOS Monterey   ⚠️ - Terminal Runner works but screenshotting the error doesn't work - fixing it in 1.0.1 hopefully.
 
 macOS Ventura   ？- Not tested yet.
 
@@ -15,7 +15,10 @@ macOS Sonoma   ？- Not tested yet.
 macOS Sequoia   ？- Not tested yet.
 
 macOS Tahoe ✅
+
+_Let me know if you have any issues in your operating system._
 ‎
+
 Basically a mix between Aeroshot/Toxidpp
 CPP Shot and toxidpp made with several AI's!
 
