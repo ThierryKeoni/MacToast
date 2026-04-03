@@ -4,15 +4,15 @@
 
 Operating System compatibility:
 
-macOS BigSur  ？- Not tested yet.
+macOS BigSur  ？- Not tested yet, but i think the Terminal Runner does the same thing: The inactive error zooms - fixing it in 1.0.1 hopefully.
 
 macOS Monterey   ⚠️ - Terminal Runner works but screenshotting the error doesn't work - fixing it in 1.0.1 hopefully.
 
-macOS Ventura   ？- Not tested yet.
+macOS Ventura   ？- Not tested yet, but i think the Terminal Runner does the same thing: The inactive error zooms - fixing it in 1.0.1 hopefully.
 
-macOS Sonoma   ？- Not tested yet.
+macOS Sonoma   ？- Not tested yet, but i think the Terminal Runner does the same thing: The inactive error zooms - fixing it in 1.0.1 hopefully.
 
-macOS Sequoia   ？- Not tested yet.
+macOS Sequoia ⚠️ - Terminal Runner works but the inactive error zooms - fixing it in 1.0.1 hopefully.
 
 macOS Tahoe ✅
 
